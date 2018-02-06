@@ -1,17 +1,17 @@
 # 4320SCRUMTrip
 
 ## Team Members:
--Zachary Pierucci
--Kevin Hunkins
--Sahand Sadri
--Daniel Clubb
+-Zachary Pierucci <br />
+-Kevin Hunkins <br />
+-Sahand Sadri <br />
+-Daniel Clubb <br />
 -Dan Weiss
 
 ## Who is Going:
--Zachary Pierucci
--Kevin Hunkins
--Sahand Sadri
--Daniel Clubb
+-Zachary Pierucci <br />
+-Kevin Hunkins <br />
+-Sahand Sadri <br />
+-Daniel Clubb <br />
 -Dan Weiss
 
 ## Destination:

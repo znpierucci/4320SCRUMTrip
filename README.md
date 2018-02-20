@@ -18,7 +18,7 @@
 -Barcelona
 
 ## Budget:
--$1500 per person ($7500 total)
+-$2500 per person ($12,500 total)
 
 ## Length:
 -5 Days

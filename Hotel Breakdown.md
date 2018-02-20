@@ -1,6 +1,6 @@
 # Hotel Breakdown
 
-![Hotel Price]()
+![Hotel Price](https://github.com/znpierucci/4320SCRUMTrip/blob/Hotel/Hotel%20Price.png)
 
 ### Hotel Price for 5 nights: $1307.04
 

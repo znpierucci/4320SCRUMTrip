@@ -5,3 +5,6 @@
 - 4:00 AM (US Central Time) - 3:00 AM (GMT +1 Time): Costs may include meals and in flight entertainment **$50.00/each**
 - 3:00 AM - 3:15 AM: UberXL to hotel **$17.49**
 - 3:15 AM - 4:00 AM: Check into hotel, unpack, go to sleep.
+
+**Total Cost**: $398.05 (Not including flgiht or hotel cost)
+**Individual Cost**: $99.51

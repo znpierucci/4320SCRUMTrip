@@ -1,4 +1,4 @@
-# March 27th Itineraryh
+# March 27th Itinerary
 **Morning Activities**<br />
 Free Breakfast at our Hotel - $0<br />
 1 Taxi for 5 people from the hotel to the Basilica of the Sagrada Familia - $30.00<br />

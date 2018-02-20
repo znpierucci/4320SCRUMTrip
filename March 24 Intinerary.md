@@ -7,4 +7,4 @@
 - 3:15 AM - 4:00 AM: Check into hotel, unpack, go to sleep.
 
 **Total Cost**: $398.05 (Not including flgiht or hotel cost)
-**Individual Cost**: $99.51
+**Individual Cost**: $79.61

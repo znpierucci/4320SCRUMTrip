@@ -5,6 +5,11 @@
 - 10:25AM - 11:20AM: Flight to Lisbon
 - 11:20AM - 12:55PM: Layover in Lisbon
 - 12:55PM - 3:50PM: Flight to Newark
+- 3:50PM - 8:00PM: Layover
+- 8:00PM - 10:00PM: Flight to St. Louis
+- 10:00PM - 10:30PM: UberXL home **$43.71**
 
 **Extra Costs**
 Flight **$4107.05**
+
+**Cost per person**: $841.16
